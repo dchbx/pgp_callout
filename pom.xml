@@ -12,9 +12,9 @@
 
   <repositories>
     <repository>
-      <id>incubator</id>
-      <name>github: dchbx incubator</name>
-      <url>ssh://git@github.com/dchbx/incubator.git</url>
+      <id>pgp_callout</id>
+      <name>github: dchbx pgp_callout</name>
+      <url>https://github.com/dchbx/pgp_callout.git</url>
     </repository>
   </repositories>
   
